@@ -1,0 +1,9 @@
+{
+  "name": "lightroomimporter",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {},
+  "dependencies": {
+    "fs-extra": "^6.0.0"
+  }
+}
